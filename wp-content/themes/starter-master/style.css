@@ -596,7 +596,7 @@ a:hover, a:active {
 .entry-summary a,
 .comment-content a {
 	text-decoration: none;
-	border-bottom: 3px solid #b51c35;
+	border-bottom: 3px solid #b25634;
 }
 
 .page-content a:focus, .page-content a:hover,
@@ -606,7 +606,7 @@ a:hover, a:active {
 .entry-summary a:hover,
 .comment-content a:focus,
 .comment-content a:hover {
-	color: #b51c35;
+	color: #b25634;
 }
 
 /*--------------------------------------------------------------
@@ -630,7 +630,7 @@ a:hover, a:active {
 	width: 100%;
 	text-decoration: none;
 	padding: 1em;
-	border: 1px solid #cccccc;
+	border: 1px solid #90988b;
 	color: black;
 }
 
@@ -641,7 +641,7 @@ a:hover, a:active {
 .post-navigation a:focus,
 .paging-navigation a:hover,
 .paging-navigation a:focus {
-	color: white;
+	color: #b51c35;
 	border-color: #b51c35;
 	background: #b51c35;
 }
@@ -707,7 +707,7 @@ a:hover, a:active {
 .post-navigation .post-title {
 	font-size: 1.2em;
 	font-weight: 700;
-	border-bottom: 3px solid #90988b;
+	border-bottom: 3px solid #b51c35;
 }
 
 .post-navigation a:hover .post-title,
@@ -882,7 +882,7 @@ a:hover, a:active {
 	padding: 1em;
 	font-family: "Source Sans Pro", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
 	color: #fff;
-	background-color: #002254;
+	background-color: #90988b;
 }
 
 @media screen and (min-width: 600px) {
@@ -1165,7 +1165,7 @@ button.dropdown-toggle {
 
 .entry-title a {
 	text-decoration: none;
-	color: black;
+	color: #626c85;
 }
 
 .entry-title a:focus, .entry-title a:hover {
