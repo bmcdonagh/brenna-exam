@@ -2,7 +2,7 @@
 /**
  * The template for displaying 404 pages (not found)
  *
- * @link https://codex.wordpress.org/Creating_an_Error_404_Page
+ * @link https://10.0.1.5:8080/buttons
  *
  * @package mwstarter
  */
