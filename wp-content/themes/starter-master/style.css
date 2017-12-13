@@ -264,7 +264,7 @@ button,
 input,
 select,
 textarea {
-	color: #000;
+	color: #626c85;
 	font-family: "PT Serif", Georgia, Cambria, "Times New Roman", Times, serif;
 	font-size: 18px;
 	font-size: 1.125rem;
@@ -1292,7 +1292,7 @@ button.dropdown-toggle {
 	padding: 1em;
 	font-family: "Source Sans Pro", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Arial, sans-serif;
 	color: #fff;
-	background-color: #002254;
+	background-color: #90988b;
 	text-align: center;
 }
 
