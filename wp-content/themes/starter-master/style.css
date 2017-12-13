@@ -2,7 +2,7 @@
 /*!
 Theme Name: mwstarter
 Theme URI: 
-Author: Megan 
+Author: Megan W 
 Author URI: https://mor10.com/courses
 Description: A new theme for time. This theme showcases the best of WordPress and Underscores and is the project for the Building Themes From Scratch Using Underscores course at LinkedIn Learning and Lynda.com.
 Version: 1.0.0
@@ -580,7 +580,7 @@ a:visited {
 }
 
 a:hover, a:focus, a:active {
-	color: #b51c35;
+	color: #b25634;
 }
 
 a:focus {
@@ -707,7 +707,7 @@ a:hover, a:active {
 .post-navigation .post-title {
 	font-size: 1.2em;
 	font-weight: 700;
-	border-bottom: 3px solid #b51c35;
+	border-bottom: 3px solid #90988b;
 }
 
 .post-navigation a:hover .post-title,
