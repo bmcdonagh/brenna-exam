@@ -512,7 +512,7 @@ input[type="reset"]:focus,
 input[type="submit"]:hover,
 input[type="submit"]:active,
 input[type="submit"]:focus {
-	background: white;
+	background: #b25634;
 	color: black;
 }
 
@@ -558,7 +558,7 @@ textarea:focus {
 }
 
 select {
-	border: 1px solid #ccc;
+	border: 1px solid #b25634;
 }
 
 textarea {
